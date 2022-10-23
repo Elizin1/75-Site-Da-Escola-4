@@ -1,0 +1,52 @@
+body{
+    text-align: center;
+}
+
+h1{
+    color: white;
+    font-size:25px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+h2{
+    color: white;
+    font-size: 20px;
+}
+
+h5{
+    font-size: 15px;
+}
+
+body{
+    background-color: black;
+} 
+
+.travel_mainDiv{
+    border:1px solid lightgrey;
+}
+
+.filme_head{
+    font-size: 20px;
+    padding:6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.filme_head i{
+    float: right;
+}
+
+.conquista_text span{
+    color:orange;
+}
+
+p{
+    color: white;
+    font-size: 15px;
+}
+
+section{
+    text-align: justify;
+}
+
